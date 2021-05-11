@@ -1,4 +1,5 @@
-# joint
+# joint [![<ORG_NAME>](https://circleci.com/gh/joao-olivio/joint.svg?style=svg)](https://app.circleci.com/pipelines/github/joao-olivio/joint)
+
 
 ## Project setup
 ```
