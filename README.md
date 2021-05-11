@@ -1,4 +1,4 @@
-# joint [![<ORG_NAME>](https://circleci.com/gh/joao-olivio/joint.svg?style=svg)](https://app.circleci.com/pipelines/github/joao-olivio/joint)
+# joint [![<ORG_NAME>](https://circleci.com/gh/joao-olivio/joint.svg?style=svg)](https://app.circleci.com/pipelines/github/joao-olivio/joint) [![Netlify Status](https://api.netlify.com/api/v1/badges/673969bd-7f93-439f-b68a-9e1fd0cd1ca7/deploy-status)](https://app.netlify.com/sites/joint-jnt/deploys)
 
 
 ## Project setup
